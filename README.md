@@ -9,6 +9,7 @@ Built with:
 - React
 - Vite
 - Tailwind CSS
+- Cypress
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
