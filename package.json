@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "watch": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "watch": "tailwindcss -i ./src/App.css -o ./dist/output.css --watch",
     "cypress": "cypress open"
   },
   "dependencies": {
