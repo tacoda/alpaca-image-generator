@@ -7,8 +7,11 @@ Find the project requirements here: [Alpaca image generator website](https://www
 Built with:
 - TypeScript
 - React
-- Vite
 - Tailwind CSS
+- Vite
+- NPM
+- Yarn
+- Jest
 - Cypress
 
 ## Screenshots and demo
